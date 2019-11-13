@@ -1,0 +1,1 @@
+small exercise code of introduction to programming
